@@ -442,11 +442,3 @@ print(f'预测结果: {predicted_class} (置信度: {confidence:.1f}%)')
 ```
 
 ---
-
-## 📝 License
-
-本项目仅供学习和教学使用。
-
----
-
-**祝您实验顺利！** 🎉
